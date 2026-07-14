@@ -2,7 +2,9 @@
 
 基于 **YOLOv8-Pose** 关键点检测的轻量级深蹲计数与动作分析工具。通过计算机视觉技术，实时计算人体膝关节角度，并利用状态机逻辑实现精准的深蹲计数。
 
-![Demo Screenshot](./assets/demo_screenshot.png)
+![Demo Screenshot](./images/test1.png)
+![Demo Screenshot](./images/test2.png)
+![Demo Screenshot](./images/test3.png)
 
 ## ✨ 核心功能 (Features)
 
